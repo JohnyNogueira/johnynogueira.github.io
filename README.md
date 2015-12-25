@@ -1,5 +1,5 @@
 
-# Jekyll-Bootstrap
+# Jekyll-pixyll theme
 
 # johnynogueira.github.io
 
