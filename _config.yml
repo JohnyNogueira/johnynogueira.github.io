@@ -1,8 +1,8 @@
 # Site settings
-title:       JohnyNogueira
+title:       Johny Nogueira
 email:       johnynogueira1@gmail.com
 author:      Johny Nogueira
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "Johny Nogueira personal website"
 baseurl:     ""
 url:         "http://johnynogueira.github.io"
 date_format: "%b %-d, %Y"
@@ -12,10 +12,10 @@ google_analytics:
 google_verification:
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   false
-show_post_footers:    false
-show_social_icons:    false
+show_post_footers:    true
+show_social_icons:    true
 ajaxify_contact_form: false
 
 # Disqus post comments
@@ -29,12 +29,12 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username:      "johnynogueira"
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
-google_plus_id:
-linkedin_username:
+twitter_username:     "johnyop_"
+google_plus_id:       "https://plus.google.com/+JohnyNogueira1"
+linkedin_username:    "https://www.linkedin.com/in/johnynogueira"
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -42,7 +42,7 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
 share_facebook: false
