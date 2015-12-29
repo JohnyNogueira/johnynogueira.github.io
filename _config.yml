@@ -3,7 +3,7 @@ title:       Johny Nogueira
 email:       johnynogueira1@gmail.com
 author:      Johny Nogueira
 description: "Johny Nogueira personal website"
-baseurl:     "/johnynogueira.github.io"
+baseurl:     ""
 url:         "http://johnynogueira.github.io"
 date_format: "%b %-d, %Y"
 
@@ -20,6 +20,7 @@ ajaxify_contact_form: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
+comments:             true
 disqus_shortname:     "johnynogueira"
 
 # Facebook Comments plugin
