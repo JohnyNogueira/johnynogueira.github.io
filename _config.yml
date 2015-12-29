@@ -3,7 +3,7 @@ title:       Johny Nogueira
 email:       johnynogueira1@gmail.com
 author:      Johny Nogueira
 description: "Johny Nogueira personal website"
-baseurl:     "https://github.com/JohnyNogueira/johnynogueira.github.io"
+baseurl:     "/johnynogueira.github.io"
 url:         "http://johnynogueira.github.io"
 date_format: "%b %-d, %Y"
 
