@@ -3,7 +3,7 @@ title:       Johny Nogueira
 email:       johnynogueira1@gmail.com
 author:      Johny Nogueira
 description: "Johny Nogueira personal website"
-baseurl:     ""
+baseurl:     "https://github.com/JohnyNogueira/johnynogueira.github.io"
 url:         "http://johnynogueira.github.io"
 date_format: "%b %-d, %Y"
 
@@ -13,14 +13,14 @@ google_verification:
 
 # Optional features
 animated:             true
-show_related_posts:   false
+show_related_posts:   true
 show_post_footers:    true
 show_social_icons:    true
 ajaxify_contact_form: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname:     "johnynogueira"
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
@@ -36,13 +36,13 @@ twitter_username:     "johnyop_"
 google_plus_id:       "https://plus.google.com/+JohnyNogueira1"
 linkedin_username:    "https://www.linkedin.com/in/johnynogueira"
 angellist_username:
-medium_id:
+medium_id:            "@johnynogueira"
 bitcoin_url:
 paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: true
+show_sharing_icons: false
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
 share_facebook: false
