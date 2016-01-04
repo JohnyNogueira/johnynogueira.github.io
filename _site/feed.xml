@@ -7,6 +7,37 @@
     <atom:link href="http://johnynogueira.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>2016 TODO</title>
+        <description>&lt;p&gt;Hi.&lt;/p&gt;
+
+&lt;p&gt;I currently work as a developer, working with C# ASP.NET MVC and WEP API on the backend, 
+on the Front-End I do projects with Angularjs, jQuery, Knockoutjs and lot of javascript, 
+also work with web apps with Ionic/Cordova.&lt;/p&gt;
+
+&lt;p&gt;As a lover of new technologies, I am always learning, this year I want to learn more,
+here my todo list:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Improve my English&lt;/li&gt;
+  &lt;li&gt;Learning TDD and be a good at unit tests&lt;/li&gt;
+  &lt;li&gt;React (also React Native)&lt;/li&gt;
+  &lt;li&gt;Improve my NodeJs Skills&lt;/li&gt;
+  &lt;li&gt;Angular2&lt;/li&gt;
+  &lt;li&gt;TypeScript&lt;/li&gt;
+  &lt;li&gt;Improve my C# Skills&lt;/li&gt;
+  &lt;li&gt;Contribute to OSS Projects&lt;/li&gt;
+  &lt;li&gt;Attend more Events and Meetups&lt;/li&gt;
+  &lt;li&gt;Learning a new language (Ruby probably)&lt;/li&gt;
+  &lt;li&gt;Learning more books&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 03 Jan 2016 00:00:00 -0200</pubDate>
+        <link>http://johnynogueira.github.io/todo/2016/01/03/2016TODO/</link>
+        <guid isPermaLink="true">http://johnynogueira.github.io/todo/2016/01/03/2016TODO/</guid>
+      </item>
+    
+      <item>
         <title>Hello, World, Pixyll!</title>
         <description>&lt;p&gt;Hello.&lt;/p&gt;
 
