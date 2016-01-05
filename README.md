@@ -1,7 +1,7 @@
 
-# Personal blog based on Jekyll-pixyll theme
+# Personal website/blog [johnynogueira.github.io](http://johnynogueira.github.io)
 
-Visit [johnynogueira.github.io](http://johnynogueira.github.io)
+# Jekyll theme pixyll
 
 ## License
 
